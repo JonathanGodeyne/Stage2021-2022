@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Meziantou.Framework.Win32.CredentialManager/1.4.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Meziantou.Framework.Win32.CredentialManager.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Meziantou.Framework.Win32.CredentialManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Meziantou.Framework.Win32.CredentialManager/1.4.2": {
+      "sha512": "lhaVaqVS5c2o7S+19m6/8wEhm6Gd+eyLg2W5LvU4VWID7QAYMKFl4MLC4lOiXeD3vUBC3Hj52pdhkPQxNKvk7A==",
+      "type": "package",
+      "path": "meziantou.framework.win32.credentialmanager/1.4.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "icon.png",
+        "lib/net461/Meziantou.Framework.Win32.CredentialManager.dll",
+        "lib/net5.0/Meziantou.Framework.Win32.CredentialManager.dll",
+        "lib/net6.0/Meziantou.Framework.Win32.CredentialManager.dll",
+        "lib/netcoreapp3.1/Meziantou.Framework.Win32.CredentialManager.dll",
+        "lib/netstandard2.0/Meziantou.Framework.Win32.CredentialManager.dll",
+        "meziantou.framework.win32.credentialmanager.1.4.2.nupkg.sha512",
+        "meziantou.framework.win32.credentialmanager.nuspec",
+        "readme.md"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Meziantou.Framework.Win32.CredentialManager >= 1.4.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\MpleoEmployeeTest\\MpleoEmployeeTest.csproj",
+      "projectName": "MpleoEmployeeTest",
+      "projectPath": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\MpleoEmployeeTest\\MpleoEmployeeTest.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\MpleoEmployeeTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Meziantou.Framework.Win32.CredentialManager": {
+            "target": "Package",
+            "version": "[1.4.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

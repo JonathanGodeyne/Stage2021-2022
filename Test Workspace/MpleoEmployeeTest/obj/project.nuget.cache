@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwf5GvyxqNq2GjZer3P3KS/WF4dsyu+CME9y1d/223n/TJNuy+yzDMT7g5bBhASZgTNC0PSWud2QL5kyLY1lcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\MpleoEmployeeTest\\MpleoEmployeeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laptop\\.nuget\\packages\\meziantou.framework.win32.credentialmanager\\1.4.2\\meziantou.framework.win32.credentialmanager.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

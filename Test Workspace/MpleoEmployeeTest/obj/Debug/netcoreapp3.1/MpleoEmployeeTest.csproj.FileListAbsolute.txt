@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.exe
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.deps.json
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.runtimeconfig.json
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.dll
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\MpleoEmployeeTest.pdb
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.dll
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.pdb
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\bin\Debug\netcoreapp3.1\Meziantou.Framework.Win32.CredentialManager.dll
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\MpleoEmployeeTest\obj\Debug\netcoreapp3.1\MpleoEmployeeTest.csproj.CopyComplete

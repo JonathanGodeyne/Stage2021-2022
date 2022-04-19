@@ -25,3 +25,5 @@ C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\obj\Debug\net6.
 C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\obj\Debug\net6.0-windows\ref\PrismTest1.dll
 C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\obj\Debug\net6.0-windows\Views\ShellWindow.g.cs
 C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\obj\Debug\net6.0-windows\Views\ShellWindow.baml
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\bin\Debug\net6.0-windows\ModuleA.dll
+C:\Users\Laptop\Desktop\Stage2021-2022\Test Workspace\PrismTest1\bin\Debug\net6.0-windows\ModuleA.pdb

@@ -182,6 +182,22 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "ModuleA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Prism.Wpf": "8.1.97"
+        },
+        "compile": {
+          "bin/placeholder/ModuleA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModuleA.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -886,10 +902,16 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "ModuleA/1.0.0": {
+      "type": "project",
+      "path": "../moduleA/ModuleA.csproj",
+      "msbuildProject": "../moduleA/ModuleA.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "ModuleA >= 1.0.0",
       "Prism.DryIoc >= 8.1.97"
     ]
   },
@@ -919,7 +941,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\moduleA\\ModuleA.csproj": {
+              "projectPath": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\moduleA\\ModuleA.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

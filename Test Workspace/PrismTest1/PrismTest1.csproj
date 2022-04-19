@@ -15,4 +15,8 @@
     <Folder Include="ViewModels\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\moduleA\ModuleA.csproj" />
+  </ItemGroup>
+
 </Project>

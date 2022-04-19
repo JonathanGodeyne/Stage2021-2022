@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MpleoEmployeeTest/1.0.0": {
+        "dependencies": {
+          "Meziantou.Framework.Win32.CredentialManager": "1.4.2"
+        },
+        "runtime": {
+          "MpleoEmployeeTest.dll": {}
+        }
+      },
+      "Meziantou.Framework.Win32.CredentialManager/1.4.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/Meziantou.Framework.Win32.CredentialManager.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MpleoEmployeeTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Meziantou.Framework.Win32.CredentialManager/1.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lhaVaqVS5c2o7S+19m6/8wEhm6Gd+eyLg2W5LvU4VWID7QAYMKFl4MLC4lOiXeD3vUBC3Hj52pdhkPQxNKvk7A==",
+      "path": "meziantou.framework.win32.credentialmanager/1.4.2",
+      "hashPath": "meziantou.framework.win32.credentialmanager.1.4.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Map SourceType="Xml/Json">
+	<Volume Id="100" RootToken="">
+		<Field Id="101" IsKey="true" Token="employeeCode"/>
+		<Field Id="102" Token="lastName"/>
+		<Field Id="103" Token="firstName"/>
+		<Link Id="9944">
+			<Field Id="101" IsKey="True" Token="emailProfessional"></Field>
+		</Link>
+		<Link Id="9941">
+			<Field Id="101" IsKey="True" Token="emailPersonal"></Field>			
+		</Link>
+	</Volume>
+</Map>

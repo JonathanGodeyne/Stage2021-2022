@@ -1,10 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "xwf5GvyxqNq2GjZer3P3KS/WF4dsyu+CME9y1d/223n/TJNuy+yzDMT7g5bBhASZgTNC0PSWud2QL5kyLY1lcw==",
+  "dgSpecHash": "lJlHkYa5CvfrC1fraAmng95pZXcUQDqcIwjfNM4Aajl5lyvirtZ7DbsdbI3DnnPxesCiySCfSW1PwnLX3t+h+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Laptop\\Desktop\\Stage2021-2022\\Test Workspace\\MpleoEmployeeTest\\MpleoEmployeeTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Laptop\\.nuget\\packages\\meziantou.framework.win32.credentialmanager\\1.4.2\\meziantou.framework.win32.credentialmanager.1.4.2.nupkg.sha512"
+    "C:\\Users\\Laptop\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\meziantou.framework.win32.credentialmanager\\1.4.2\\meziantou.framework.win32.credentialmanager.1.4.2.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
